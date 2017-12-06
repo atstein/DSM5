@@ -1,0 +1,13 @@
+Package: DSM5
+Type: Package
+Title: this does some stuff that Aliza wants
+Version: 0.1.0
+Author: c(person("Aliza T.", "Stein"), role=c("aut, "cre""),
+    email="atstein@utexas.edu") 
+Maintainer: Aliza T. Stein <atstein@utexas.edu>
+Description: This package allows you to translate between DSM-IV/ICD9 to DSM-5/ICD10 codes.
+    This package also allows you to lookup the name of a disorder using ICD or DSM codes.
+License: ATS1
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
